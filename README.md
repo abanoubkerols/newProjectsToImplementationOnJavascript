@@ -26,3 +26,4 @@ newProjectsToImplementationOnJavascript
 | 18|     Sound-Board| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Sound-Board/)  |
 | 19|     Split-Landing-Page| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Split-Landing-Page/)  |
 | 20|     custom-video-player| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/custom-video-player/)  |
+| 21|     Exchange-Rate-Calculator| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Exchange-Rate-Calculator/)  |
