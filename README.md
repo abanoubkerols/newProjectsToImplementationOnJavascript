@@ -27,3 +27,4 @@ newProjectsToImplementationOnJavascript
 | 19|     Split-Landing-Page| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Split-Landing-Page/)  |
 | 20|     custom-video-player| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/custom-video-player/)  |
 | 21|     Exchange-Rate-Calculator| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Exchange-Rate-Calculator/)  |
+| 22|     DOM-Array-Methods-forEach-map-filter-sort-reduce| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/DOM-Array-Methods-forEach-map-filter-sort-reduce/)  |
