@@ -30,3 +30,4 @@ newProjectsToImplementationOnJavascript
 | 22|     DOM-Array-Methods-forEach-map-filter-sort-reduce| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/DOM-Array-Methods-forEach-map-filter-sort-reduce/)  |
 | 23|     Menu-Slider-Modal-DOM-CSS| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Menu-Slider-Modal-DOM-CSS/)  |
 | 24|     Quote-Generator| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Quote-Generator/)  |
+| 25|     Quote-Generator| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Infinite-Scroll/)  |
