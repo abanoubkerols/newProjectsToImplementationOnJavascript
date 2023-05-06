@@ -31,3 +31,4 @@ newProjectsToImplementationOnJavascript
 | 23|     Menu-Slider-Modal-DOM-CSS| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Menu-Slider-Modal-DOM-CSS/)  |
 | 24|     Quote-Generator| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Quote-Generator/)  |
 | 25|     Infinite-Scroll| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Infinite-Scroll/)  |
+| 26|     Picture-In-Picture| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Picture-In-Picture/)  |
