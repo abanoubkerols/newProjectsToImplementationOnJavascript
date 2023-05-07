@@ -32,3 +32,4 @@ newProjectsToImplementationOnJavascript
 | 24|     Quote-Generator| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Quote-Generator/)  |
 | 25|     Infinite-Scroll| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Infinite-Scroll/)  |
 | 26|     Picture-In-Picture| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Picture-In-Picture/)  |
+| 27|     Joke-Teller| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Joke-Teller/)  |
