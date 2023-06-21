@@ -35,3 +35,4 @@ newProjectsToImplementationOnJavascript
 | 27|     Joke-Teller| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Joke-Teller/)  |
 | 28|    light-dark-mode | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/light-dark-mode/)  |
 | 29|    Cart | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Cart/)  |
+| 30|    Background-Slider | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Background-Slider/)  |

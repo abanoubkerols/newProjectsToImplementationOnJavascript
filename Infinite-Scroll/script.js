@@ -80,7 +80,7 @@ function imageLoaded() {
         ready = true
         loader.hidden = true
    
-        count = 20
+        count = 20       
 
     }
 
