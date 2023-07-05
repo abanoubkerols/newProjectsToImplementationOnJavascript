@@ -37,3 +37,4 @@ newProjectsToImplementationOnJavascript
 | 29|    Cart | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Cart/)  |
 | 30|    Background-Slider | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Background-Slider/)  |
 | 31|    Guss-My-Number | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Guss-My-Number/)  |
+| 32|    Show-close-modal | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Show-close-modal/)  |
