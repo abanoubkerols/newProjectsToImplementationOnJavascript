@@ -39,3 +39,4 @@ newProjectsToImplementationOnJavascript
 | 31|    Guss-My-Number | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Guss-My-Number/)  |
 | 32|    Show-close-modal | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Show-close-modal/)  |
 | 33|    Dice-Game| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/dice-game/)  |
+| 34|    Arrays-Bankist| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Arrays-Bankist/)  |
