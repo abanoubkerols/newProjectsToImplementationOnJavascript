@@ -40,3 +40,4 @@ newProjectsToImplementationOnJavascript
 | 32|    Show-close-modal | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Show-close-modal/)  |
 | 33|    Dice-Game| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/dice-game/)  |
 | 34|    Arrays-Bankist| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Arrays-Bankist/)  |
+| 35|    Advanced-DOM| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Advanced-DOM/)  |
