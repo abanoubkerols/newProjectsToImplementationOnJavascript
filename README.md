@@ -2,7 +2,7 @@
 
 ________
 newProjectsToImplementationOnJavascript
-<h1>javasript</h1>
+<h1>javascript</h1>
 
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------:  | :-------: |
@@ -42,3 +42,4 @@ newProjectsToImplementationOnJavascript
 | 34|    Arrays-Bankist| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Arrays-Bankist/)  |
 | 35|    Advanced-DOM| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Advanced-DOM/)  |
 | 36|    Cookie-Popup| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Cookie-Popup/)  |
+| 37|    map| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/map/) |
