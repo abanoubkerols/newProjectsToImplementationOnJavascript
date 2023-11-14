@@ -47,3 +47,4 @@ newProjectsToImplementationOnJavascript
 | 39|    speak Number Guess| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/speakNumberGuess/) |
 | 40|    sortable List| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/sortableList/) |
 | 41|    new year countdown| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/newYearCountdown/) |
+| 42|    toDoList | [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/toDoList/) |
