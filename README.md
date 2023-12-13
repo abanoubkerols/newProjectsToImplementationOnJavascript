@@ -53,3 +53,4 @@ newProjectsToImplementationOnJavascript
 | 45|    breake OutGame| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/breakeOutGame/) |
 | 46|    Relaxer App CSS Animations, setTimeout| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/RelaxerApp/) |
 | 47|    shoppingList| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/shoppingList/) |
+| 48|    the Movie App| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/theMovieApp/) |
