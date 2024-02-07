@@ -54,3 +54,4 @@ newProjectsToImplementationOnJavascript
 | 46|    Relaxer App CSS Animations, setTimeout| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/RelaxerApp/) |
 | 47|    shoppingList| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/shoppingList/) |
 | 48|    the Movie App| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/theMovieApp/) |
+| 49|    Language Translator Application| [Live Demo](https://abanoubkerols.github.io/newProjectsToImplementationOnJavascript/Language-Translator-Application/) |
