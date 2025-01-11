@@ -1,0 +1,66 @@
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: monospace; 
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    background: whitesmoke;
+}
+
+#text-container {
+    width: 800px;
+    height: auto; /* Adjust height dynamically based on content */
+    margin: 20px auto;
+    line-height: 2rem;
+    white-space: nowrap;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    overflow: hidden; /* Hide overflowing text */
+    display: flex;
+    align-items: center;
+    position: relative; /* Positioning context for text scroll */
+    cursor: none;
+}
+
+#timer {
+    margin: 10px;
+    font-size: 1.2rem;
+}
+
+button {
+    padding: 10px;
+    width: 150px;
+    background: rgb(43, 43, 43);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 1.2rem;
+    display: none;
+}
+
+button:hover {
+    filter: brightness(1.2);
+}
+
+span {
+    min-width: 14px;
+}
+
+.correct {
+    color: green;
+}
+
+.error {
+    color: red;
+}
